@@ -1,0 +1,47 @@
+{
+    "admin": {
+      "sidebar": {
+        "item1": "Dashboard",
+        "item2": "Talent List",
+        "item3": "Client List",
+        "item4": "Talent Approval List",
+        "item5": "User Management",
+        "collapse": "Collapse"
+      },
+      "talentApproval": {
+        "header": "Talent Approval List",
+        "tabelHead1": "Agency",
+        "tabelHead2": "Request Date",
+        "tabelHead3": "Selected Talent",
+        "tabelHead4": "Status",
+        "tabelHead5": "Action"
+      },
+      "talentList": {
+        "header": "Talent List",
+        "tabelHead1": "Talent",
+        "tabelHead2": "Level",
+        "tabelHead3": "Experience",
+        "tabelHead4": "Status",
+        "tabelHead5": "Employment",
+        "tabelHead6": "Action",
+        "add-talent": "Add Talent",
+        "talentYearLabel": "Years",
+        "addTable": "Add Talent"
+
+      },
+      "addTalent":{
+        "back": "Back"
+      },
+      "enLang": "English",
+      "idLang": "Indonesian",
+      "sortBy": {
+        "newest": "Newest",
+        "oldest": "Oldest"
+      },
+      "paginationEntries": "Entries"
+    }, 
+    "global": {
+      "search": "Search"
+    }
+  }
+  

@@ -1,0 +1,45 @@
+{
+    "admin": {
+        "sidebar":{
+            "item1": "Dashboard",
+            "item2": "Daftar Talent",
+            "item3": "Daftar Client",
+            "item4": "Daftar Persetujuan Talent",
+            "item5": "Kelola User",
+            "collapse": "Collapse"
+        },
+        "talentApproval":{
+            "header": "Daftar Persetujuan Talent",
+            "tabelHead1": "Instansi",
+            "tabelHead2": "Tanggal Request",
+            "tabelHead3": "Talent yang dipilih",
+            "tabelHead4": "Status",
+            "tabelHead5": "Aksi"
+        },
+        "talentList":{
+            "header": "Daftar Talent",
+            "tabelHead1": "Talent",
+            "tabelHead2": "Level",
+            "tabelHead3": "Pengalaman",
+            "tabelHead4": "Status",
+            "tabelHead5": "Kepegawaian",
+            "tabelHead6": "Aksi",
+            "add-talent": "Tambah Talent",
+            "talentYearLabel": "Tahun",
+            "addTable": "Tambah Talent"
+        },
+        "addTalent":{
+            "back": "Kembali"
+          },
+        "enLang": "Inggris",
+        "idLang": "Indonesia",
+        "sortBy": {
+            "newest": "Newest",
+            "oldest": "Oldest"
+        },
+        "pagintationEntries": "Entri"
+    },
+    "global": {
+        "search": "Cari"
+    }
+}
